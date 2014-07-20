@@ -3,7 +3,7 @@ AntiForgery: enabled
 Author: Jack Cheng
 Website: http://orchard.commercan.com
 Version: 1.0
-OrchardVersion: 1.0
+OrchardVersion: 1.8
 Description: Add Google Analytics to your website.
 Features:
     Commercan.GoogleAnalytics:
